@@ -14,7 +14,8 @@
   "author": "Ejazul",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.1",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
     "nodemon": "^3.1.0"
   }
 }
