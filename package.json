@@ -1,21 +1,18 @@
 {
-  "name": "node-app",
+  "name": "app",
   "version": "1.0.0",
-  "description": "Learn Node",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "node"
-  ],
-  "author": "Ejazul",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2",
-    "morgan": "^1.10.0",
-    "nodemon": "^3.1.0"
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
   }
 }
